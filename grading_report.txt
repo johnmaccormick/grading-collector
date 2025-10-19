@@ -1,7 +1,0 @@
-Grading report for directory: assemble-grading-comments
-
-File: assemble_grading_comments.py
-### Grading:'
-Total for assemble_grading_comments.py: 0 / 0
-
-Grand total: 0 / 0
